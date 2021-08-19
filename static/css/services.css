@@ -1,0 +1,6 @@
+.containerserv {
+    margin-bottom: 13rem;
+}
+.h2, h2 {
+    font-size: calc(1rem + .9vw);
+  }

@@ -1,0 +1,16 @@
+.container-footer{
+    margin-top: 10rem!important;
+}
+.blog-container{
+    margin-top: 2rem!important;
+}
+.blog{
+    margin-top: 3rem!important;
+
+}
+.h2, h2 {
+    font-size: calc(1rem + .9vw);
+  }
+  .card-color{
+      background-color: #0b00ff;
+  }

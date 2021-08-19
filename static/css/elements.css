@@ -1,0 +1,41 @@
+.element{
+    margin-top: 3rem!important;
+}
+.marketing .col-lg-4 {
+    margin-bottom: 1.5rem;
+    margin-top: 1rem;
+    text-align: center;
+}
+.containerserv {
+    color: white;
+    margin-top: 7rem;
+}
+.form{
+    margin-top: 3rem!important;
+}
+.text-height{
+    height: 10rem!important;
+    text-align: center;
+    width: 30rem!important;
+}
+.get{
+    margin-bottom: 2rem!important;
+}
+.get-top{
+    margin-top: 4rem!important;
+}
+.g-52{
+    width: 99.5%!important;
+}
+
+.username{
+    width: 30rem!important;
+
+}
+.h2, h2 {
+    font-size: calc(1rem + .9vw);
+  }
+.mx-6 {
+    margin-right: 4rem!important;
+    margin-left: 1rem!important;
+}
