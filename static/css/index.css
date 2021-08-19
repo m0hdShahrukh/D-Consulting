@@ -76,7 +76,7 @@
   color: #c2c2c2;
 }
 .footer-section{
-  margin-left: 2.5rem!important;
+  margin-left: 6.5rem!important;
 }
 .signup{
   margin-left: 0%!important;
@@ -122,6 +122,10 @@
     }
     .D-Consulting{
       width: 12rem!important;
+    }
+    .all-rights{
+        margin-right: 4rem!important;
+        margin-left: 0rem!important;
     }
     .mx-5{
           margin-right: 4rem!important;
