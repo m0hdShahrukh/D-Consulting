@@ -115,7 +115,6 @@
     max-width: 100%;
 }
   }
-
   @media (max-width:847px){
     div[style="background-image: url(../static/images/footer.jpg);"]{
   width: 100%;
