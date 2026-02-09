@@ -19,11 +19,15 @@ This directory contains a WordPress theme scaffold that hosts a React-powered dr
 
 ## Running the Theme
 1. Ensure the WordPress site is running (local stack, Docker, or hosting environment).
-2. Start the development watcher from the theme directory:
+2. From the theme directory, run:
    ```bash
+   npm install
+   npm run build
    npm start
    ```
-3. Refresh the WordPress front end to load the builder with hot reload updates.
+3. In WordPress admin, go to **DCRB Builder** in the left sidebar to open the builder UI.
+4. Refresh the builder page to load the latest hot reload updates.
+5. Use the front end to preview the theme shell if needed.
 
 ## Notes
 - The React build output is expected in `build/` via `@wordpress/scripts`.
