@@ -1,0 +1,32 @@
+/*
+Theme Name: D Consulting React Builder
+Theme URI: https://example.com/d-consulting-react-builder
+Author: D Consulting
+Author URI: https://example.com
+Description: A React-powered WordPress theme with a drag-and-drop page builder foundation.
+Version: 0.1.0
+License: GNU General Public License v2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: d-consulting-react-builder
+Tags: custom-background, custom-logo, custom-menu, featured-images, theme-options, translation-ready
+*/
+
+:root {
+  --builder-bg: #f6f7fb;
+  --builder-panel: #ffffff;
+  --builder-accent: #3b82f6;
+  --builder-text: #0f172a;
+  --builder-muted: #64748b;
+  --builder-border: #e2e8f0;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", system-ui, -apple-system, sans-serif;
+  color: var(--builder-text);
+  background: var(--builder-bg);
+}
+
+#dcrb-root {
+  min-height: 100vh;
+}
