@@ -17,6 +17,14 @@ This directory contains a WordPress theme scaffold that hosts a React-powered dr
    ```
 3. Activate the theme in WordPress and navigate to the front end to see the builder shell.
 
+## Running the Theme
+1. Ensure the WordPress site is running (local stack, Docker, or hosting environment).
+2. Start the development watcher from the theme directory:
+   ```bash
+   npm start
+   ```
+3. Refresh the WordPress front end to load the builder with hot reload updates.
+
 ## Notes
 - The React build output is expected in `build/` via `@wordpress/scripts`.
 - This scaffold focuses on the builder layout, state model, and widget registry. Extend it with real widget renderers and REST endpoints.
