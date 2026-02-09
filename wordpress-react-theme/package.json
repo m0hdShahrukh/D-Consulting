@@ -1,0 +1,20 @@
+{
+  "name": "d-consulting-react-builder-theme",
+  "version": "0.1.0",
+  "private": true,
+  "description": "React-powered WordPress theme with a drag-and-drop builder shell.",
+  "scripts": {
+    "build": "wp-scripts build",
+    "start": "wp-scripts start",
+    "lint": "wp-scripts lint"
+  },
+  "dependencies": {
+    "@wordpress/element": "^5.0.0",
+    "@wordpress/i18n": "^4.0.0",
+    "clsx": "^2.1.0",
+    "zustand": "^4.5.2"
+  },
+  "devDependencies": {
+    "@wordpress/scripts": "^27.0.0"
+  }
+}
